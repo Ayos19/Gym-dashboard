@@ -17,3 +17,4 @@ The dashboard covers 1,998 customers and $75,530 in total revenue. The average s
 3. Convert non-training members to personal training.
 4. Study what works in Fresno and apply it to weaker locations like Oakland.
 5. Track retention and seasonality to reduce revenue swings.
+<img width="958" height="1080" alt="IMG-3 jpg" src="https://github.com/user-attachments/assets/24075918-b2a2-48ed-b174-776bd3a9fdd5" />
